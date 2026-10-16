@@ -1,0 +1,9 @@
+Modelo,Perturbação,Método,Spearman médio,Distância euclidiana média,Top-3 preservado (%)
+Random Forest,1% do desvio,SHAP,0.9855,0.0118,93.0
+Random Forest,1% do desvio,LIME,0.9995,0.0007,99.8
+Random Forest,5% do desvio,SHAP,0.9572,0.036,81.2
+Random Forest,5% do desvio,LIME,0.9975,0.0034,98.6
+XGBoost,1% do desvio,SHAP,0.9634,0.022,88.2
+XGBoost,1% do desvio,LIME,0.9995,0.0008,99.8
+XGBoost,5% do desvio,SHAP,0.8892,0.0606,74.0
+XGBoost,5% do desvio,LIME,0.9975,0.0039,98.6

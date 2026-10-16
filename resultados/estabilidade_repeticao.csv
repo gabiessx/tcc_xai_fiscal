@@ -1,0 +1,3 @@
+Modelo,SHAP: dif. máx. entre duas execuções,LIME: Spearman médio entre execuções,LIME: Top-3 preservado (%)
+Random Forest,0.0,0.9424,88.1
+XGBoost,0.0,0.9219,85.0

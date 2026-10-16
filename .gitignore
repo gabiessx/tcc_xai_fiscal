@@ -1,0 +1,15 @@
+# Local Python environment
+/env_tcc/
+/.venv/
+/venv/
+
+# Python and Jupyter generated files
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Local editor and operating-system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

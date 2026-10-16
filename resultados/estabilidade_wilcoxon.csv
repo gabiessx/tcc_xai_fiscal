@@ -1,0 +1,5 @@
+Modelo,Perturbação,p (Spearman SHAP > LIME),p (distância SHAP < LIME)
+Random Forest,1% do desvio,0.9999999999999998,1.0
+Random Forest,5% do desvio,1.0,1.0
+XGBoost,1% do desvio,1.0,1.0
+XGBoost,5% do desvio,1.0,1.0

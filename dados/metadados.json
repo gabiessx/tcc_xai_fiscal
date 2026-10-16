@@ -1,0 +1,18 @@
+{
+  "semente": 42,
+  "colunas_informativas": [
+    "faturamento_anual",
+    "imposto_declarado",
+    "margem_lucro_presumido",
+    "volume_notas_emitidas",
+    "deducoes_fiscais",
+    "movimentacao_bancaria",
+    "creditos_tributarios"
+  ],
+  "colunas_ruido": [
+    "ruido_mercado_1",
+    "ruido_mercado_2",
+    "ruido_mercado_3"
+  ],
+  "alvo": "risco_fiscal"
+}

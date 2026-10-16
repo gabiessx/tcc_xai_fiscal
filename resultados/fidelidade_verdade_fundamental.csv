@@ -1,0 +1,5 @@
+Modelo,Método,Importância no ruído (%),Precisão@7 (%)
+Random Forest,SHAP,8.72,83.57
+Random Forest,LIME,2.57,93.29
+XGBoost,SHAP,7.94,83.14
+XGBoost,LIME,3.96,89.86
